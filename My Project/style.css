@@ -1,0 +1,21 @@
+.class{
+    color: rgb(238, 209, 209);
+}
+body::before {
+    content: "";
+    position: fixed;
+    background: url(./.vscode/images/desktop-wallpaper-office-background-corporate-office.jpg);
+    background-size: cover;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 100vh;
+    z-index: -1;
+}
+    
+
+#head{
+    color: rgb(238, 209, 209);
+}
+
+  
